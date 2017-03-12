@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# launch example
-# python3 main.py -i ./data/in/test1.fasta -o ./data/out/test1.pdf -k 14
-
 import pygraphviz as pgv
 import subprocess
 import argparse
