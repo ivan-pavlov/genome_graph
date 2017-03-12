@@ -1,3 +1,4 @@
 data/in
 data/out
 .DS_Store
+test_*.py
