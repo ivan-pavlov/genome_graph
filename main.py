@@ -6,6 +6,7 @@ import argparse
 import time
 from tqdm import tqdm
 
+
 def parse_fq(file_path):
     node_l = []
     with open(file_path) as fq_in:
